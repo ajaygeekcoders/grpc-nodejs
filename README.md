@@ -12,11 +12,11 @@ Terminal Command for setup
 
 
 After clone - 
-npm i
-then open Terminal - 1
-node server.js
-then open Terminal - 2
-node index.js
+1. npm i
+2. then open Terminal - 1
+3. node server.js
+4. then open Terminal - 2
+5. node index.js
 
 
 Api is on index.js use postman collection to run api
